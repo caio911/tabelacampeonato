@@ -1,0 +1,16 @@
+<svg width="500px" height="525px" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+
+    <defs>
+        <clipPath id="formato"><circle cx="250.026" cy="249.975" r="249.475"/></clipPath>
+    </defs>
+
+    <g id="fundo" fill="#ffffff" x="0"><circle cx="250.026" cy="249.975" r="249.475"/></g>
+
+    <g id="estampa1" fill="#000000" x="0" clip-path="url(#formato)"><rect x="300" width="50" height="100%"/><rect y="150" width="100%" height="50"/></g>
+
+    <g id="borda" fill="none" stroke="#cccccc" stroke-width="10" x="0"><circle cx="250.026" cy="249.975" r="249.475"/></g>
+
+    
+<g id="adorno"></g>
+
+</svg>
